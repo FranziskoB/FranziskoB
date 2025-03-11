@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Franzisko Busselmann👋
 
-- 🌱 Atualmente estou estudando Data Science e Analytics
+-Tenho formação em Data Science and Analytics pela USP/ESALQ e Engenharia Mecânica pela UFVJM, com experiência em Power BI, Python para Data Science, SQL, Machine Learning e OpenCV. Minha trajetória inclui atuação em gestão e desenvolvimento de melhorias operacionais, aplicação de modelos preditivos e inteligência artificial em processos industriais e otimização de processos no setor de pátio de madeira, preparo de cavacos e gestão de resíduos. Busco transformar dados em insights estratégicos, criando soluções eficientes para a tomada de decisão.
 
 <a href="https://github.com/FranziskoB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FranziskoB&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="FranziskoB's github stats" /></a> | <a href="https://github.com/FranziskoB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranziskoB&layout=compact&theme=merko&hide_border=true" /></a>
 
